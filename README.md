@@ -1,4 +1,4 @@
-# 🐍 Python_Projects — Logic & Algorithms Practice
+# 🐍 Python_Projects
 
 > A repo built with love, sweat, and many, many `print()`s.  
 > This is where my logic training lives — from classic algorithms to brain-bending challenges 🧠✨
