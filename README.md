@@ -56,7 +56,7 @@ Topics include sequential algorithms, decision structures, loops, functions, and
 Clone the repository to get started:
 
 ```bash
-git clone https://github.com/your-username/Python_Projects.git
+git clone https://github.com/GABRELCR/Python_Projects.git
 ````
 
 Then navigate into any folder and run the files:
