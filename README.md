@@ -7,8 +7,10 @@
 
 ## 📌 About
 
-This repository is dedicated to my learning journey in **Programming Logic and Algorithms (PLA)**, with **Python** as the main tool of choice.  
-It’s a growing lab of problem-solving, creative scripts, and code experiments — made to sharpen the mind and embrace the bugs.
+Welcome to `Python_Projects` — a personal laboratory of experiments, exercises, and learning paths in **Python**.  
+This repository serves as a growing collection of study modules, practical logic drills, and algorithmic training designed to sharpen both fundamentals and creativity.
+
+Each folder represents either a themed set of exercises or a complete study track in development.
 
 ---
 
@@ -16,80 +18,87 @@ It’s a growing lab of problem-solving, creative scripts, and code experiments 
 
 ```
 
-📁 Python_Projects/
-├── 📁 Aula_2/ → Sequential algorithms, variables, input/output
-├── 📁 Aula_3/ → Conditional structures (if, else, elif)
-├── 📁 Aula_4/ → Loops and repetition (while, for)
-├── 📁 Aula_5/ → Functions and modularization
-├── 📁 Aula_6/ → Tuples, lists, dictionaries, strings
-├── 📁 ATIVIDADE_PRATICA_MODULO_A/ → Module A Assignment (based on Aula 8)
-└── README.md → You’re reading it!
+📁 Python\_Projects/
+├── 📁 LPA/                   → Programming Logic & Algorithms course (Aulas 2–6 + final assignment)
+├── 📁 data\_structures/       → (coming soon) Stacks, queues, sets, dictionaries...
+├── 📁 classic\_algorithms/    → (coming soon) Sorting, recursion, search algorithms...
+├── 📁 logic\_challenges/      → (coming soon) Puzzles, brain teasers, logic traps...
+├── 📁 beginner\_exercises/    → (coming soon) Syntax drills, small warmups
+└── README.md                 → This file!
 
 ````
 
-> 📎 *Structure may evolve as new challenges and ideas are added.*
+> 📎 Each module can be explored independently. Check their individual READMEs for details and instructions.
 
 ---
 
-## 🧠 Covered Topics
+## 📘 Featured Module: LPA — Programming Logic and Algorithms
 
-- Input/Output and data manipulation  
-- Conditional logic (`if`, `else`, `elif`)  
-- Loops (`for`, `while`)  
-- Function creation and reuse  
-- Handling data collections (tuples, lists, dicts, strings)  
-- Logical problem-solving and algorithm design  
+The `LPA/` folder contains a complete academic-style training path following structured lessons (Aula 2–6), plus a final assignment (based on Aula 8).  
+Topics include sequential algorithms, decision structures, loops, functions, and Python collections.
+
+🔎 **Explore it here →** [`/LPA`](./LPA)
+
+---
+
+## 🧠 What You'll Find Across This Repo
+
+- Classic logic problems  
+- Study-driven code organization  
+- Comments and readable syntax  
+- Modular growth across topics  
+- A beginner-friendly spirit with room to grow
 
 ---
 
 ## 🚀 How to Use
 
-Clone the repo and start exploring:
+Clone the repository to get started:
 
 ```bash
 git clone https://github.com/your-username/Python_Projects.git
 ````
 
-Then run the scripts locally:
+Then navigate into any folder and run the files:
 
 ```bash
-cd Python_Projects
-python3 your_script.py
+cd Python_Projects/LPA
+python3 aula_2_ex1.py
 ```
 
 ---
 
 ## 🛠 Requirements
 
-* Python 3.8+
-* Any text editor or IDE (VSCode, PyCharm, or even Notepad works!)
-* Curiosity, patience, and a tolerance for the occasional bug 🐛
+* Python 3.8 or newer
+* Any code editor (VSCode, PyCharm, or Notepad++ works just fine)
+* A dash of patience and a pinch of curiosity 🧂✨
 
 ---
 
-## 🌱 Always Growing
+## 🌱 Still Growing
 
-This repo is a **living notebook**. It's not polished, but it's real.  
-Each folder holds fragments of understanding, mistakes turned into insights, and the rhythm of a student who refuses to give up.
+This is a living repository. More folders, scripts, and experiments will be added as I go deeper into Python and algorithmic thinking.
+
+Each script is a step. Each commit is a lesson.
+And each bug? Well… that’s just an unpaid teacher 🐞
 
 ---
 
 ## 📬 Contact
 
-Wanna collaborate, discuss logic, or trade programming jokes?  
-Reach me here on GitHub or by email: [gabrielcrebustini@gmail.com]
+Suggestions? Feedback? Want to collab?
+Feel free to reach out via GitHub or at: \[[gabrielcrebustini@gmail.com](mailto:gabrielcrebustini@gmail.com)]
 
 ---
 
-## ☕ Credits & Thanks
+## ☕ Thanks
 
-* To all the teachers, YouTubers, and kind strangers in programming forums.
-* To the Python community for being welcoming and powerful.
-* And to coffee, the real compiler of thoughts.
+* To all the mentors, videos, and online strangers that helped along the way
+* To the Python community for making coding accessible
+* And to coffee, the unofficial sponsor of late-night debugging
 
 ---
 
 **Made by Gabriel ☀️ — 2025**
-With bugs, obviously. But with love.
-
-```
+Crafted with bugs. Documented with love.
